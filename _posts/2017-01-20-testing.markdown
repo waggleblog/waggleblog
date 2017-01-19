@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Welcome to again!"
-date:   2017-01-20 17:57:09 +0900
+date:   2017-01-18 00:00:01 +0900
 categories: testing waggle
 published: true
-future: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
